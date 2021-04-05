@@ -1,8 +1,8 @@
 html {
 background-color: #ECEFF4;
-font-size: 14px;
+font-size: 1em;
 font-family: "Jost";
-color; #2E3440
+color: #2E3440;
 }
 
 .tab { 
@@ -20,7 +20,7 @@ line-height: 2em;
 }
 
 code, pre {
-font-size: 13px;
+font-size: 1em;
 }
 
 pre {
@@ -35,7 +35,6 @@ border-bottom: 3px solid #000;
 
 h2 {
 padding: 20px;
-background-color: #FFF;
 display: inline-block;
 border: 3px solid #000;
 float: left;
@@ -46,7 +45,7 @@ border-radius: 20px;
 }
 
 h3 {
-font-size: 18px;
+font-size: 1.5em;
 display: inline-block;
 border-bottom: 3px solid #000;
 }
