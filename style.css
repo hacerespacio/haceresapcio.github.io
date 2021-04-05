@@ -15,7 +15,6 @@ margin: -30px auto;
 padding: 70px;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
-background-color: #FFF;
 font-family: "Jost";
 line-height: 2em;
 }
@@ -31,25 +30,25 @@ margin-left: 50px;
 h1 {
 text-align: center;
 padding: 20px;
-border-bottom: 1px solid #000;
+border-bottom: 3px solid #000;
 }
 
 h2 {
 padding: 20px;
 background-color: #FFF;
 display: inline-block;
-border: 1px solid #000;
+border: 3px solid #000;
 float: left;
 margin-right: 30px; 
--moz-border-radius: 5px;
--webkit-border-radius: 5px;
-border-radius: 5px;
+-moz-border-radius: 20px;
+-webkit-border-radius: 20px;
+border-radius: 20px;
 }
 
 h3 {
 font-size: 18px;
 display: inline-block;
-border-bottom: 1px solid #000;
+border-bottom: 3px solid #000;
 }
 
 ol {
