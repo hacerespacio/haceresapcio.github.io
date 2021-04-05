@@ -9,11 +9,11 @@ text-indent:40px
 }
 
 body {
-width: 520px;
+width: 610px;
 margin: -30px auto;
 padding: 20px;
-border-left: 5px solid #000;
-border-right: 5px solid #000;
+border-left: 2px solid #000;
+border-right: 2px solid #000;
 background-color: #FFF;
 font-family: "Jost"
 }
@@ -29,14 +29,14 @@ margin-left: 50px;
 h1 {
 text-align: center;
 padding: 20px;
-border-bottom: 5px solid #000;
+border-bottom: 2px solid #000;
 }
 
 h2 {
 padding: 20px;
 background-color: #FFF;
 display: inline-block;
-border: 5px solid #000;
+border: 2px solid #000;
 float: left;
 margin-right: 30px; 
 -moz-border-radius: 15px;
