@@ -48,7 +48,7 @@ margin-right: 30px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
 border-color: #2E3440;
-font-family: i"Lexend";
+font-family: "Lexend";
 font-weight: Bold;
 }
 
@@ -61,7 +61,6 @@ border-color: #2E3440;
 
 h4 {
 padding: 20px;
-display: inline-block;
 border: 1px solid #000;
 float: left;
 margin-right: 30px; 
@@ -70,7 +69,6 @@ margin-right: 30px;
 border-radius: 20px;
 border-color: #2E3440;
 font-family: "Jost";
-font-weight: Regular;
 font-size: 0.8em;
 text-align: left;
 }
