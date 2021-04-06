@@ -86,7 +86,7 @@ text-decoration: underline;
     position: relative;
     font-size: 0.7em;
     padding: 20px;
-    display: inline-block;
+    display: block;
     border: 1px solid #000;
     margin-right: 30px; 
     -moz-border-radius: 20px;
