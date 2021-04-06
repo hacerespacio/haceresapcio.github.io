@@ -75,10 +75,10 @@ text-decoration: underline;
 
 .sidenote,
 .marginnote {
-    float: right;
+    float: left;
     clear: right;
-    margin-right: -60%;
-    width: 50%;
+    margin-leftt: -30%;
+    width: 20%;
     margin-top: 0.3rem;
     margin-bottom: 0;
     font-size: 1.1rem;
