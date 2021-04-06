@@ -72,150 +72,46 @@
     font-display: swap;
 }
 
-/* JONES* */
+/* Comfortaa* */
 
 @font-face {
-    font-family: "Jones";
-    src: url("Jones-Light.otf") format("opentype");
+    font-family: "Comfortaa";
+    src: url("Comfortaa-Light.ttf") format("truetype");
     font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Jones";
-    src: url("Jones-Book.otf") format("opentype");
+    font-family: "Comfortaa";
+    src: url("Comfortaa-Regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Jones";
-    src: url("Jones-Medium.otf") format("opentype");
+    font-family: "Comfortaa";
+    src: url("Comfortaa-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Jones";
-    src: url("Jones-Bold.otf") format("opentype");
+    font-family: "Comfortaa";
+    src: url("Comfortaa-SemiBold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: "Jones";
-    src: url("Jones-Black.otf") format("opentype");
+    font-family: "Comfortaa";
+    src: url("Comfortaa-Bold.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
-/* BESLEY* */
 
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-Book.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-BookItalic.ttf") format("truetype");
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-Medium.ttf") format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-MediumItalic.ttf") format("truetype");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-Bold.ttf") format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-BoldItalic.ttf") format("truetype");
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-Fatface.ttf") format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Besley";
-    src: url("Besley-FatfaceItalic.ttf") format("truetype");
-    font-weight: 900;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Copperplate";
-    src: url("CopperplateCC-Heavy.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Copperplate";
-    src: url("CopperplateCC-Bold.ttf") format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Tiffany";
-    src: url("TiffanyGothicCC.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Engraving";
-    src: url("EngravingCC.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Railroad";
-    src: url("RailroadGothicCC.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
